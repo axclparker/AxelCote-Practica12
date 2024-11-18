@@ -63,7 +63,6 @@ public class CuentaBanco {
     this.saldo = saldo;
   }
 
-
   /**
    * Metodo depositar
    * @param monto -> Monto a depositar 
